@@ -1,0 +1,4 @@
+c:\msprojects\MvcApplicationTest\MvcApplicationTest\bin\MvcApplicationTest.dll
+c:\msprojects\MvcApplicationTest\MvcApplicationTest\bin\MvcApplicationTest.pdb
+c:\msprojects\MvcApplicationTest\MvcApplicationTest\obj\Debug\MvcApplicationTest.dll
+c:\msprojects\MvcApplicationTest\MvcApplicationTest\obj\Debug\MvcApplicationTest.pdb
